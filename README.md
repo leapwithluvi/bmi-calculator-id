@@ -16,7 +16,16 @@ Ditulis dalam bahasa Python dan menggunakan input/output dasar. Cocok sebagai pr
 
 ## 💻 Contoh Output
 
-<pre> ``` PERHITUNGAN BMI (BODY MASS INDEX) --------------------------------------------- Masukkan berat badan anda (kg) : 70 Masukkan tinggi badan (meter) : 1.75 --------------------------------------------- Nilai BMI anda adalah : 22.86 kg/m^2 Nilai normal BMI adalah : 18.5 kg/m^2 - 25 kg/m^2 Berat badan ideal anda adalah dalam rentang 56.66 kg - 76.56 kg --------------------------------------------- Terima Kasih telah menggunakan program ini :> ``` </pre>
+<pre> PERHITUNGAN BMI (BODY MASS INDEX)
+---------------------------------------------
+Masukkan berat badan anda (kg) : 70
+Masukkan tinggi badan (meter) : 1.75
+---------------------------------------------
+Nilai BMI anda adalah : 22.86 kg/m^2
+Nilai normal BMI adalah : 18.5 kg/m^2 - 25 kg/m^2
+Berat badan ideal anda adalah dalam rentang 56.66 kg - 76.56 kg
+---------------------------------------------
+Terima Kasih telah menggunakan program ini :> </pre>
 
 ---
 
